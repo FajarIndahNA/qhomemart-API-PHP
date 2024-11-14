@@ -1,0 +1,28 @@
+=====SOAL API======
+
+**Soal 1:**
+
+Buatlah API sederhana untuk menampilkan daftar film berdasarkan genre. API ini harus menerima parameter "genre" melalui metode GET dan mengembalikan JSON berisi daftar film dengan genre tersebut.
+
+**Soal 2:**
+
+Buatlah API sederhana untuk menghitung luas persegi panjang. API ini harus menerima parameter "panjang" dan "lebar" melalui metode POST dan mengembalikan JSON berisi nilai luas.
+
+**Soal 3:**
+
+Buatlah API sederhana untuk menyimpan pesan. API ini harus menerima parameter "pesan" melalui metode POST dan mengembalikan JSON berisi status penyimpanan pesan (sukses/gagal).
+
+**Soal 4:**
+
+Buatlah API sederhana untuk menampilkan tanggal dan waktu saat ini dalam format JSON.
+
+**Soal 5:**
+
+Buatlah API sederhana untuk menyapa pengguna dengan nama yang dimasukkan melalui parameter "nama" melalui metode GET.
+
+Untuk soal-soal ini, fokuslah pada logika dasar pemrograman API seperti menerima parameter, memproses data, dan mengembalikan response dalam format JSON. Akan menjadi nilai tambah jika anda menggunakan framework COdeigniter 3/4.
+
+
+Anda bisa menggunakan referensi API dari source manapun, sebagai contoh : 
+https://devpost.com/software/daftar-api-lokal-indonesia
+
